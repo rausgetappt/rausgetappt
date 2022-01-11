@@ -1,0 +1,1 @@
+<img align="left" alt="rausgetappt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rausgetappt&show_icons=true&hide_border=true" />
